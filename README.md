@@ -12,8 +12,10 @@ Project Organization
     |   ├── Brett Gordon - Capstone #2 - EDA.ipynb
     |   ├── Brett Gordon - Capstone #2 - Modeling.ipynb
     |   |── Brett Gordon - Capstone #2 - Preprocessing.ipynb
-    |
-    ├── README.md          <- The top-level README for developers using this project.
+    │
+    ├── Reports
+    │   ├── Capstone #2 Project Proposal - Brett Gordon.pdf
+    │   ├── Capstone 2 Final Report.pdf
     |
     ├── data
     │   └── raw            <- The original, immutable data dump.
@@ -22,7 +24,5 @@ Project Organization
     │       └── player
     │       └── team
     │       └── total
-    │
-    ├── Reports
-    │   ├── Capstone #2 Project Proposal - Brett Gordon.pdf
-    │   ├── Capstone 2 Final Report.pdf
+    |
+    ├── README.md          <- The top-level README for developers using this project.
