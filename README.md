@@ -17,10 +17,11 @@ Project Organization
     |
     ├── data
     │   └── raw            <- The original, immutable data dump.
+    │       └── game
     │       └── modern_RAPTOR_by_player.csv
     │       └── player
+    │       └── team
     │       └── total
-    │       └── game
     │
     ├── Reports
     │   ├── Capstone #2 Project Proposal - Brett Gordon.pdf
