@@ -18,7 +18,7 @@ Project Organization
     ├── data
     │   └── raw            <- The original, immutable data dump.
     │       └── modern_RAPTOR_by_player.csv
-    │       └── basketball.sqlite
+    │       └── [NBA Database dataset](https://www.kaggle.com/datasets/wyattowalsh/basketball)
     │
     ├── Reports
     │   ├── Capstone #2 Project Proposal - Brett Gordon.pdf
