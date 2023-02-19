@@ -7,8 +7,6 @@ during the season
 Project Organization
 ------------
 
-    ├── LICENSE
-    |
     ├── Notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
     |   ├── Brett Gordon - Capstone #2 - Data Wrangling.ipynb
     |   ├── Brett Gordon - Capstone #2 - EDA.ipynb
@@ -21,8 +19,6 @@ Project Organization
     │   └── raw            <- The original, immutable data dump.
     │       └── modern_RAPTOR_by_player.csv
     │       └── basketball.sqlite
-    │
-    ├── references          <- Data dictionaries, manuals, and all other explanatory materials.
     │
     ├── Reports
     │   ├── Capstone #2 Project Proposal - Brett Gordon.pdf
